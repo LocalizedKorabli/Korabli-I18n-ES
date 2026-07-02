@@ -1,0 +1,26 @@
+# Workflow tools (internal)
+trans-workflow/
+.reasonix/
+batch_translate.ps1
+
+# Working / temporary files
+current/
+*.jsonl
+*.json
+
+# Reference CSVs (source data, not for distribution)
+ref/
+
+# Config files
+exclude.txt
+COMMANDS.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
