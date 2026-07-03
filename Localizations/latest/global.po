@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
-"Language: de\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -9909,16 +9909,16 @@ msgid "IDS_CAMPAIGN_TASK"
 msgstr "Tarea"
 
 msgid "IDS_CAMPAIGN_TASKS"
-msgstr "Задания"
+msgstr "Tareas"
 
 msgid "IDS_CAMPAIGN_TASK_COMPLETED"
-msgstr "Выполнено"
+msgstr "Completado"
 
 msgid "IDS_CAMPAIGN_TASK_IS_LOOTED_REWARDS"
-msgstr "Получено"
+msgstr "Recibido"
 
 msgid "IDS_CAMPAIGN_TASK_LOCKED"
-msgstr "Недоступно для выполнения"
+msgstr "No disponible para completar"
 
 msgid "IDS_CAMPAIGN_TASK_NUMBER"
 msgstr "Tarea %(_taskNumber)d"
@@ -9930,7 +9930,7 @@ msgid "IDS_CANCEL"
 msgstr "Cancelar"
 
 msgid "IDS_CANCEL_ACTION"
-msgstr "Отменить"
+msgstr "Cancelar"
 
 msgid "IDS_CANCEL_ORGANIZER_SEARCH"
 msgstr "Cancelar búsqueda"
@@ -9939,7 +9939,7 @@ msgid "IDS_CANCEL_UPPER_CASE"
 msgstr "CANCELAR"
 
 msgid "IDS_CANNOT_HIT_TARGET_BUFFED_BY_SCOUT"
-msgstr "ВОЗДУШНОЕ ПРОСТРАНСТВО ЗАНЯТО"
+msgstr "ESPACIO AÉREO OCUPADO"
 
 msgid "IDS_CANNOT_HIT_TARGET_CANT_REACH_DEPTH"
 msgstr "TIEMPO INSUFICIENTE PARA APUNTAR TORPEDOS"
@@ -9948,16 +9948,16 @@ msgid "IDS_CANNOT_HIT_TARGET_COMMON"
 msgstr "ES IMPOSIBLE GOLPEAR AL OBJETIVO"
 
 msgid "IDS_CANNOT_HIT_TARGET_NOT_PINGABLE"
-msgstr "ИМПУЛЬС БУДЕТ РАССЕЯН"
+msgstr "EL IMPULSO SERÁ DISIPADO"
 
 msgid "IDS_CANNOT_HIT_TARGET_NO_ARTILLERY"
-msgstr "ОТСУТСТВУЕТ ГК"
+msgstr "FALTA LA BATERÍA PRINCIPAL"
 
 msgid "IDS_CANNOT_HIT_TARGET_TOO_FAR"
-msgstr "ТОРПЕДЫ НЕ ДОСТИГНУТ ЦЕЛИ"
+msgstr "LOS TORPEDOS NO ALCANZARÁN EL OBJETIVO"
 
 msgid "IDS_CANNOT_HIT_TARGET_WRONG_TARGET_TYPE"
-msgstr "НЕУЯЗВИМ ДЛЯ ВЫБРАННЫХ ТОРПЕД"
+msgstr "INMUNE A TORPEDOS SELECCIONADOS"
 
 msgid "IDS_CANTIMETER"
 msgstr "cm"
@@ -66602,7 +66602,7 @@ msgid "IDS_PCEE062_TM_DESCRIPTION"
 msgstr "Estás listo para enfrentarte a cualquier enemigo en igualdad de condiciones. En las duras condiciones de los intensos combates marinos, has demostrado tu superioridad, elevándola al rango de arte. Eres el rey de los mares y lo seguirás siendo hasta que llegue alguien capaz de arrebatarte este título."
 
 msgid "IDS_PCEE062_TM_EXTRA_DESCRIPTION"
-msgstr "En homenaje al torneo Rey de los mares."
+msgstr "En homenaje al torneo «Rey de los mares»."
 
 msgid "IDS_PCEE063_FLAG_VOLUNTEER_2"
 msgstr "Voluntario, clase II"
@@ -70126,10 +70126,10 @@ msgid "IDS_PCEE631_STRIPED_VEST_FLAG_DESCRIPTION"
 msgstr "En la Armada rusa, la telnyashka apareció en la segunda mitad del siglo XIX: las franjas blancas y azules correspondían a los colores de la bandera de San Andrés. Atributo indispensable de los marineros revolucionarios durante la Guerra Civil y de los infantes de marina soviéticos durante la Gran Guerra Patria, la telnyashka se convirtió en la conciencia popular en un símbolo romántico de la vida marina, la audacia y el valor."
 
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG"
-msgstr "Подводные лодки СССР"
+msgstr "Submarinos soviéticos"
 
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG_DESCRIPTION"
-msgstr "В честь выхода подводных лодок СССР в ранний доступ в обновлении 12.8."
+msgstr "Para celebrar la irrupción de los submarinos de la URSS en nuestros mares en acceso anticipado en la actualización 12.8."
 
 msgid "IDS_PCEE633_PRORYV_FLAG"
 msgstr "Irrupción"
@@ -70211,11 +70211,11 @@ msgstr "Chernomor"
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG_DESCRIPTION"
 msgstr ""
-"И той стражи нет надежней,\n"
-"Ни храбрее, ни прилежней."
+"Y no hay guardia más confiable,\n"
+"Ni más valiente, ni más diligente."
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "En homenaje al torneo «Rey de los mares»."
 
 msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG"
 msgstr "Tiburones de acero"
@@ -70446,7 +70446,7 @@ msgstr ""
 "A la izquierda — cuenta un cuento."
 
 msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
-msgstr "En homenaje al torneo Rey de los mares."
+msgstr "En homenaje al torneo «Rey de los mares»."
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG"
 msgstr "Clavel rojo"
@@ -70881,7 +70881,7 @@ msgid "IDS_PCEE750_TM_FLAG_DESCRIPTION"
 msgstr "Keira es la mejor estudiante de la Academia Naval del Norte. Ataca rápida y precisamente, como un sable afilado, y elimina a cualquier enemigo en su camino."
 
 msgid "IDS_PCEE750_TM_FLAG_EXTRA_DESCRIPTION"
-msgstr "En homenaje al torneo Rey de los mares."
+msgstr "En homenaje al torneo «Rey de los mares»."
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG"
 msgstr "Submarinos franceses"
@@ -75924,13 +75924,13 @@ msgid "IDS_PCZC366_SOVIETBBARC_ASHIK"
 msgstr "Viktor Vladimirovich Ashik (1905-1985)"
 
 msgid "IDS_PCZC366_SOVIETBBARC_ASHIK_DESCRIPTION"
-msgstr "<p>Siempre hubo muchas personalidades brillantes entre los ingenieros rusos y soviéticos. Viktor Vladimirovich Ashik fue sin duda una de ellas. Sus antepasados venían de Serbia. El propio Viktor, con más de seis décadas de experiencia en el diseño y la construcción de barcos, fue un coleccionista hereditario y un gran conocedor de la historia y la cultura del mundo.</p><p class=\"p_spacing\"> </p><p>Trabajando en la oficina de diseño (КБ) del astillero del Báltico, desde 1936 Ashik fue adjunto de Boris Chilikin, que estaba a cargo del desarrollo del «proyecto 23» — acorazados para la «Gran Flota Oceánica». En 1939, se convirtió en el diseñador jefe del proyecto, que en ese momento ya había supervisado la puesta en grada de dos de los cuatro barcos de la clase Sovetsky Soyuz. Durante la guerra, se desarrollaron los primeros proyectos de portaaviones en la URSS por insistencia del Comisario del Pueblo para la Armada, el almirante Kuznetsov. Kuznetsov supo ver la importante función que desempeñaba este tipo de aviación en una guerra marítima en esas fechas. Tras ser ascendido al puesto de ingeniero jefe de la Oficina Central de Diseño n.o 17 (ЦКБ-17), Viktor Ashik dirigió los trabajos de diseño de los portaaviones soviéticos.</p>"
+msgstr "<p>Siempre hubo muchas personalidades brillantes entre los ingenieros rusos y soviéticos. Viktor Vladimirovich Ashik fue sin duda una de ellas. Sus antepasados venían de Serbia. El propio Viktor, con más de seis décadas de experiencia en el diseño y la construcción de barcos, fue un coleccionista hereditario y un gran conocedor de la historia y la cultura del mundo.</p><p class=\"p_spacing\"> </p><p>Trabajando en la oficina de diseño (KB) del astillero del Báltico, desde 1936 Ashik fue adjunto de Boris Chilikin, que estaba a cargo del desarrollo del «proyecto 23» — acorazados para la «Gran Flota Oceánica». En 1939, se convirtió en el diseñador jefe del proyecto, que en ese momento ya había supervisado la puesta en grada de dos de los cuatro barcos de la clase Sovetsky Soyuz. Durante la guerra, se desarrollaron los primeros proyectos de portaaviones en la URSS por insistencia del Comisario del Pueblo para la Armada, el almirante Kuznetsov. Kuznetsov supo ver la importante función que desempeñaba este tipo de aviación en una guerra marítima en esas fechas. Tras ser ascendido al puesto de ingeniero jefe de la Oficina Central de Diseño n.o 17 (TsKB-17), Viktor Ashik dirigió los trabajos de diseño de los portaaviones soviéticos.</p>"
 
 msgid "IDS_PCZC367_SOVIETBBARC_BESPOLOV"
 msgstr "Fedot Evdokimovich Bespolov (1895-1983)"
 
 msgid "IDS_PCZC367_SOVIETBBARC_BESPOLOV_DESCRIPTION"
-msgstr "<p>El camino para convertirse en constructor naval fue largo y complicado para Fedot Evdokimovich Bespolov. Nacido en una familia pobre, entró en un establecimiento de educación superior poco después del estallido de la Primera Guerra Mundial, por lo que tuvo que hacer malabares con sus estudios y su trabajo en el puerto. Se vio obligado a abandonar los estudios varias veces porque necesitaba trabajar en los astilleros para poder comer. Tras obtener la especialidad de constructor naval en 1930, Bespolov participó en el diseño y la construcción de los destructores líderes de flotilla de clase Leningrad.</p><p class=\"p_spacing\"> </p><p>A partir de mediados de los años 30, Fedot Bespolov trabajó en la Oficina Central de Diseño de Construcción Naval Especial (ЦКБС-1, posteriormente ЦКБ-17), participando en el diseño de los destructores de clase Gnevny. En 1939, este ingeniero con talento fue nombrado diseñador jefe del «proyecto 69», los cruceros superpesados de clase Kronshtadt armados con artillería de 305 mm. En plena Gran Guerra Patria, Bespolov dirigió el «proyecto 24», un desarrollo más avanzado de los acorazados de clase Sovetsky Soyuz. El diseño de estos barcos tomaba en consideración la experiencia adquirida en la Segunda Guerra Mundial y encarnaba los logros más avanzados de la construcción naval soviética. Tanto los cañones de 406 mm como los de 457 mm se barajaban como opciones para el armamento de estos acorazados. Además, de acuerdo con el proyecto de 1950, tenían que estar equipados con la artillería universal más avanzada y el equipamiento de radar más moderno.</p>"
+msgstr "<p>El camino para convertirse en constructor naval fue largo y complicado para Fedot Evdokimovich Bespolov. Nacido en una familia pobre, entró en un establecimiento de educación superior poco después del estallido de la Primera Guerra Mundial, por lo que tuvo que hacer malabares con sus estudios y su trabajo en el puerto. Se vio obligado a abandonar los estudios varias veces porque necesitaba trabajar en los astilleros para poder comer. Tras obtener la especialidad de constructor naval en 1930, Bespolov participó en el diseño y la construcción de los destructores líderes de flotilla de clase Leningrad.</p><p class=\"p_spacing\"> </p><p>A partir de mediados de los años 30, Fedot Bespolov trabajó en la Oficina Central de Diseño de Construcción Naval Especial (TsKBS-1, posteriormente TsKB-17), participando en el diseño de los destructores de clase Gnevny. En 1939, este ingeniero con talento fue nombrado diseñador jefe del «proyecto 69», los cruceros superpesados de clase Kronshtadt armados con artillería de 305 mm. En plena Gran Guerra Patria, Bespolov dirigió el «proyecto 24», un desarrollo más avanzado de los acorazados de clase Sovetsky Soyuz. El diseño de estos barcos tomaba en consideración la experiencia adquirida en la Segunda Guerra Mundial y encarnaba los logros más avanzados de la construcción naval soviética. Tanto los cañones de 406 mm como los de 457 mm se barajaban como opciones para el armamento de estos acorazados. Además, de acuerdo con el proyecto de 1950, tenían que estar equipados con la artillería universal más avanzada y el equipamiento de radar más moderno.</p>"
 
 msgid "IDS_PCZC368_FRENCHDDARC_ENSEIGNE_GABOLDE"
 msgstr "Enseigne Gabolde"
@@ -104965,10 +104965,10 @@ msgid "IDS_PRPA151_406MM_AP_RTC_S_RUSSIA"
 msgstr "406 mm AP modelo 1937"
 
 msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
 msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
-msgstr "Б-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA154_305MM_HE_FRUNZE"
 msgstr "305 mm AE Modelo 1930"
@@ -105142,7 +105142,7 @@ msgid "IDS_PRPA240_130MM_AP_OGNEVOY"
 msgstr "SAP-46"
 
 msgid "IDS_PRPA241_152MM_OFU35_SG_T8_11"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
 msgid "IDS_PRPA242_203MM_HE_GROMOBOY"
 msgstr "203 mm HE Modelo 1892"
@@ -105199,7 +105199,7 @@ msgid "IDS_PRPA259_152MM_25HE_1907"
 msgstr "152 mm HE Modelo 1907"
 
 msgid "IDS_PRPA260_152MM_OFU35_25HE_SG"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
 msgid "IDS_PRPA261_203MM_HE_GREM"
 msgstr "203 mm HE OEA Mle 1927"
@@ -105322,25 +105322,25 @@ msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
 msgstr "Carga de profundidad"
 
 msgid "IDS_PRPM001_ASW_SEAMINE_T6"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPM002_ASW_SEAMINE_T8"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPM003_ASW_SEAMINE_T10"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPM990_LENINETS_MINE"
 msgstr "PLT"
 
 msgid "IDS_PRPN001_ASW_PLANESEAMINE_T6"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPN002_ASW_PLANESEAMINE_T8"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPN010_ASW_PLANESEAMINE_T10"
-msgstr "МАВ-1"
+msgstr "MAV-1"
 
 msgid "IDS_PRPR003_SEROV_TOP"
 msgstr "RS-132M"
@@ -105367,10 +105367,10 @@ msgid "IDS_PRPR010_KOMISSAR_STOCK"
 msgstr "S-21"
 
 msgid "IDS_PRPR011_ULYANOVSK_STOCK"
-msgstr "С-21"
+msgstr "S-21"
 
 msgid "IDS_PRPR012_ULYANOVSK_TACT"
-msgstr "С-24"
+msgstr "S-24"
 
 msgid "IDS_PRPR994_ORLOV_STOCK"
 msgstr "S-21"
@@ -107882,7 +107882,7 @@ msgid "IDS_PRSD519"
 msgstr "Ognenny"
 
 msgid "IDS_PRSD519_DESCR"
-msgstr "<p>В 1955–56 гг. были утверждены задания на переоборудование эсминцев проекта 30-бис в корабли радиотехнической разведки. Эти корабли должны были вести радиоразведку, радиолокацию и постановку помех в интересах соединения. Проект включал в себя установку зенитных автоматов ЗИФ-71 с радиолокационным наведением, установку двух РБУ-2500, а также аппаратуры радиоразведки и радиолокации. В 1958–60 гг. было модернизировано восемь эсминцев проекта 30-бис.</p><p class=\"p_spacing\"> </p><p>«Огненный» был построен в Молотовске на заводе № 402 как эсминец проекта 30-бис. С 1950 по 1963 г. входил в состав Северного флота. В 1958–60 г. был модернизирован по проекту 31 как корабль радиотехнической разведки. В 1963–64 гг. служил в составе Черноморского флота, а с 1968 г. — Балтийского. В 1971 г. выполнял боевые задачи, оказывая помощь египетским ВМС.</p>"
+msgstr "<p>En 1955–56 se aprobaron las tareas para la conversión de los destructores del proyecto 30-bis en barcos de reconocimiento radiotécnico. Estos barcos debían realizar reconocimiento por radio, radar y contramedidas electrónicas en interés de la flota. El proyecto incluía la instalación de cañones antiaéreos ZIF-71 con guía por radar, la instalación de dos RBU-2500, así como equipos de reconocimiento por radio y radar. En 1958–60 se modernizaron ocho destructores del proyecto 30-bis.</p><p class=\"p_spacing\"> </p><p>El «Ogniénnii» fue construido en Molotovsk en la planta n.º 402 como destructor del proyecto 30-bis. De 1950 a 1963 formó parte de la Flota del Norte. En 1958–60 fue modernizado según el proyecto 31 como barco de reconocimiento radiotécnico. En 1963–64 sirvió en la Flota del Mar Negro, y desde 1968 en la del Báltico. En 1971 realizó misiones de combate, prestando ayuda a la Armada egipcia.</p>"
 
 msgid "IDS_PRSD519_FULL"
 msgstr "Ognenny"
@@ -108002,7 +108002,7 @@ msgid "IDS_PRSS111"
 msgstr "B-4"
 
 msgid "IDS_PRSS111_DESCR"
-msgstr "<p>Большие дизель-электрические подводные лодки проекта 641 создавались на замену субмаринам проекта 611, являясь их развитием. Новый тип предназначался для действий на коммуникациях противника, разведки, минных постановок. Проект 641 был одним из последних, имевших классический тип корпуса — последующие подводные лодки уже имели каплевидный корпус.</p><p class=\"p_spacing\"> </p><p>Б-4 была построена в Ленинграде и по внутренним речным путям переведена в Северодвинск, где вступила в строй. Во время Карибского кризиса субмарина участвовала в операции «Кама» — прорыве на Кубу. Б-4 стала единственной подводной лодкой, которую американские блокадные силы не смогли заставить всплыть на поверхность. В 1963 г. Б-4 получила почётное наименование «Челябинский комсомолец». В 1966 г. подводная лодка находилась в Египте, где советские силы присутствовали для недопущения дальнейшей эскалации египетско-израильского конфликта. В 1960–80-х гг. Б-4 выполняла боевые и учебные задачи в Атлантике, на Средиземном море.</p>"
+msgstr "<p>Los grandes submarinos diésel-eléctricos del proyecto 641 se crearon para reemplazar a los submarinos del proyecto 611, siendo su desarrollo. El nuevo tipo estaba destinado a operaciones en las comunicaciones enemigas, reconocimiento, colocación de minas. El proyecto 641 fue uno de los últimos que tuvo un casco de tipo clásico: los submarinos posteriores ya tenían casco en forma de lágrima.</p><p class=\"p_spacing\"> </p><p>El B-4 fue construido en Leningrado y trasladado por vías fluviales internas a Severodvinsk, donde entró en servicio. Durante la crisis de los misiles en Cuba, el submarino participó en la operación «Kama»: la ruptura hacia Cuba. El B-4 fue el único submarino que las fuerzas de bloqueo estadounidenses no pudieron obligar a emerger. En 1963, el B-4 recibió el nombre honorífico «Chelábinski Komsomolets». En 1966, el submarino se encontraba en Egipto, donde las fuerzas soviéticas estaban presentes para evitar una mayor escalada del conflicto egipcio-israelí. En las décadas de 1960 a 1980, el B-4 realizó misiones de combate y entrenamiento en el Atlántico y el mar Mediterráneo.</p>"
 
 msgid "IDS_PRSS111_FULL"
 msgstr "B-4"
@@ -108047,7 +108047,7 @@ msgid "IDS_PRSS910"
 msgstr "Leninets"
 
 msgid "IDS_PRSS910_DESCR"
-msgstr "<p>Головной корабль типа подводных минных заградителей «Ленинец» (серия II). Подводная лодка была заложена и спущена на воду на заводе № 189 им. Орджоникидзе в Ленинграде.</p><p class=\"p_spacing\"> </p><p>В ходе Советско-финляндской войны подводная лодка несла боевые дежурства. Во время Великой Отечественной войны, в ноябре 1941 г., «Ленинец» получил повреждения от немецкой артиллерии в порту Ленинграда. В декабре было обнаружено, что подводная лодка села на грунт.</p><p class=\"p_spacing\"> </p><p>Подводная лодка была поднята спасательной службой Балтийского флота в 1944 г., но восстановительные работы не проводились, и в следующем году «Ленинец» был выведен из состава флота.</p>"
+msgstr "<p>Buque principal del tipo de minadores submarinos «Leninets» (serie II). El submarino fue puesto en grada y botado en el astillero n.º 189 Ordzhonikidze en Leningrado.</p><p class=\"p_spacing\"> </p><p>Durante la Guerra Soviético-Finlandesa, el submarino realizó patrullas de combate. Durante la Gran Guerra Patria, en noviembre de 1941, el «Leninets» sufrió daños por la artillería alemana en el puerto de Leningrado. En diciembre se descubrió que el submarino había encallado.</p><p class=\"p_spacing\"> </p><p>El submarino fue reflotado por el servicio de salvamento de la Flota del Báltico en 1944, pero no se realizaron trabajos de restauración, y al año siguiente el «Leninets» fue dado de baja de la flota.</p>"
 
 msgid "IDS_PRSS910_FULL"
 msgstr "Leninets"
@@ -112313,7 +112313,7 @@ msgid "IDS_PVE_TASK_BATTLE_STATUS_NOT_STARTED"
 msgstr "NUEVA TAREA"
 
 msgid "IDS_PVE_TASK_BATTLE_STATUS_SUCCESS"
-msgstr "Выполнено"
+msgstr "COMPLETADO"
 
 msgid "IDS_PVE_TASK_BATTLE_STATUS_UPDATED"
 msgstr "TAREA ACTUALIZADA"
@@ -121352,7 +121352,7 @@ msgid "IDS_PZSC111"
 msgstr "Xi'an"
 
 msgid "IDS_PZSC111_DESCR"
-msgstr "<p>En 1950, tres oficinas de diseño experimental del 4.o Departamento Especial del Ministerio del Interior de la URSS desarrollaron anteproyectos de varios cruceros ligeros. El crucero del proyecto MLK-10x130 estaba armado con cinco monturas dobles de 130 mm БЛ-110.</p><p class=\"p_spacing\"> </p><p>En el marco de una hipotética modernización de la década de 1960, se podría suponer la sustitución de las monturas БЛ-110 por monturas СМ-62, que eran más eficaces contra objetivos aéreos. Tras la modernización con el rearme, el barco podría haber sido transferido a China en el marco del programa de cooperación científica y técnica existente entre los países.</p>"
+msgstr "<p>En 1950, tres oficinas de diseño experimental del 4.o Departamento Especial del Ministerio del Interior de la URSS desarrollaron anteproyectos de varios cruceros ligeros. El crucero del proyecto MLK-10x130 estaba armado con cinco monturas dobles de 130 mm BL-110.</p><p class=\"p_spacing\"> </p><p>En el marco de una hipotética modernización de la década de 1960, se podría suponer la sustitución de las monturas BL-110 por monturas SM-62, que eran más eficaces contra objetivos aéreos. Tras la modernización con el rearme, el barco podría haber sido transferido a China en el marco del programa de cooperación científica y técnica existente entre los países.</p>"
 
 msgid "IDS_PZSC111_FULL"
 msgstr "Xi'an"
@@ -122999,10 +122999,10 @@ msgid "IDS_RANDOMBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_FROM_1_TO_3"
 msgstr "Tamaño máximo de los equipos en barcos de nivel %(levelRome)s: 6 contra 6."
 
 msgid "IDS_RANDOMBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_FROM_5_TO_6"
-msgstr "Максимальный размер команд на кораблях %(levelRome)s уровня: 9 на 9 или 12 на 12."
+msgstr "Tamaño máximo de los equipos en barcos de nivel %(levelRome)s: 9 contra 9 o 12 contra 12."
 
 msgid "IDS_RANDOMBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_FROM_7_TO_10"
-msgstr "Максимальный размер команд на кораблях %(levelRome)s уровня: 12 на 12."
+msgstr "Tamaño máximo de los equipos en barcos de nivel %(levelRome)s: 12 contra 12."
 
 msgid "IDS_RANDOM_OPERATION_AVAILABLE_WITHOUT_DIVISION"
 msgstr "Puedes participar sin una división"
@@ -123032,7 +123032,7 @@ msgid "IDS_RANKED_BATTLES_SEASON"
 msgstr "Batallas de clasificación: temporada %(_seasonId)s"
 
 msgid "IDS_RANKED_BATTLES_SEASON_AND_SPRINT"
-msgstr "%(_seasonId)s-й сезон, %(_sprintId)s-й спринт"
+msgstr "Temporada %(_seasonId)s, Esprint %(_sprintId)s"
 
 msgid "IDS_RANKED_BATTLES_SEASON_ENDED"
 msgstr "La temporada %(_seasonId)s ha terminado"
@@ -123296,7 +123296,7 @@ msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DEFAULT"
 msgstr "No recibido"
 
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
-msgstr "Получено"
+msgstr "Recibido"
 
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_LOCKED"
 msgstr "Liga omitida"
@@ -124778,7 +124778,7 @@ msgid "IDS_REWARD_EARNED_COLON"
 msgstr "Recibidas: %(_count)s"
 
 msgid "IDS_REWARD_EARNED_MODERNIZATION"
-msgstr "Получено"
+msgstr "Recibido:"
 
 msgid "IDS_REWARD_ELITEXP_TITLE"
 msgstr "XP de comandante de élite"
@@ -140108,7 +140108,7 @@ msgid "IDS_SSE_CONDITIONS_DO_STRATEGIC_ACTIONS_TERRITORIES"
 msgstr "completa %(times)s operaciones del evento «Hazañas de la Flota del Báltico»"
 
 msgid "IDS_SSE_CONDITIONS_DO_STRATEGIC_ACTIONS_TERRITORIES_SHORT"
-msgstr "completa las operaciones del evento «Подвиги Балтфлота»"
+msgstr "completa las operaciones del evento «Hazañas de la Flota del Báltico»"
 
 msgid "IDS_SSE_CONDITIONS_ENEMY"
 msgstr "Enemigo"
@@ -144267,7 +144267,7 @@ msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_3"
 msgstr "Resultados"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_0"
-msgstr "Operación РВ-1"
+msgstr "Operación RV-1"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_1"
 msgstr "Operación «Oeste». Dirección costera"
@@ -146119,7 +146119,7 @@ msgid "IDS_TOOLTIP_RANDOMBATTLE_IMPOSSIBLE_TO_LEAVEQUEUE"
 msgstr "No se puede dejar la espera. Por favor espera a que comience la batalla."
 
 msgid "IDS_TOOLTIP_RANDOMBATTLE_LEAVEQUEUE"
-msgstr "Отменить"
+msgstr "Cancelar"
 
 msgid "IDS_TOOLTIP_RANDOMBATTLE_PLAYERSWAITINGCELL"
 msgstr "Número de barcos de guerra del mismo tipo y nivel esperando una batalla."
@@ -147647,7 +147647,7 @@ msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_DIVISION"
 msgstr "No disponible para las divisiones"
 
 msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER"
-msgstr "Вы не можете вносить изменения, пока идёт поиск боя"
+msgstr "No puedes hacer cambios mientras se está buscando una batalla"
 
 msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_CHANGE_WT_TASK"
 msgstr "No disponible mientras se busca batalla"
